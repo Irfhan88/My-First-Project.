@@ -1,0 +1,33 @@
+/* body{
+     background-image: url(Spiderman.jpeg);
+    background-repeat:repeat-x
+    background-position:center;
+} */
+
+
+ul{
+    color:white;
+    background-color: darkblue;
+    font-size: 15px;
+    list-style-type: none;
+    text-align: center;
+}
+ul li{
+    color:white;
+    background-color: darkblue;
+    display: inline-block;
+    padding: 10px;
+}
+ul li:hover{
+    color: black;
+    background-color:goldenrod;
+    cursor: pointer;
+}
+div{
+    color: black;
+    background-color: greenyellow;
+}
+h5{
+    color: red;
+    margin-top: 15px;
+}
